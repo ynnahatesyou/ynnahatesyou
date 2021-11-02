@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ynnahatesyou
-- 👀 I’m interested in coding and programming
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me ...
 Email: shaina.carillo21@gmail.com
